@@ -4,6 +4,8 @@ Este repositório apresenta a evolução do conhecimento Java SE, focado na idei
 ## O que foi feito?
 Foi realizado exercícios que refletem um mini-mundo, ou seja exemplos de situções mundanas onde coube-se aplicar conceitos de Classes e Objetos
 
+<h3 align="center"> STATUS: 🚧 Em construção...  🚧 </h3>
+
 ### Exercícios de Programação Orientada a Objetos(POO)
 **- Exercício POO 001 -->** Mini mundo usando classe de **"PERSONAGENS"**, com atributos como
 *id, vida, tipo de personagem(guerreiro; heroi; vilao)*
