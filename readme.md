@@ -15,3 +15,10 @@ Foi realizado exercícios que refletem um mini-mundo, ou seja exemplos de situç
 *nome do produto, preço, e ID*
 
 **- Exercício POO 004 -->** Usando **JOGADOR** como classe para objetos
+
+**- Exercício POO 005 -->** Utilizando Classe de roupas e atributos referentes
+
+**- Exercício POO 006 -->** Utilizando Classe de *Alunos*, usando ***GET e SET***
+    - GET: Obter valores de variaveis de uma classe
+    - SET: Atribuir valores para variáveis de uma classe
+

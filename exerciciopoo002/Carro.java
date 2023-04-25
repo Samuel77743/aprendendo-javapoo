@@ -3,12 +3,16 @@ package exerciciopoo002;
 public class Carro {
 
     //Atributos
-    String nome;
-    String marca;
-    int ano;
-    int velocidade;
+    public String nome;
+    public String marca;
+    public int ano;
+    public int velocidade;
 
     //Métodos
+    public Carro (){
+
+    }
+
     void acelerar (int aceleracao) {
         velocidade += aceleracao; 
     }
