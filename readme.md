@@ -38,12 +38,14 @@ Foi realizado exercícios que refletem um mini-mundo, ou seja exemplos de situç
     Grande ideia: Permite que os diferentes objetos se utilizem de um mesmo valor de atributo
 
 **- Exercício POO 011 -->** Aprendendo funcionamento da **HERANÇA**:
-    CENÁRIO: Construção de jogos onde se tem carros com vários atributos relacionados:
-    - NOME
-    - LIGADO/DESLIGADO
-    - ESTADO DE DESTRUIÇÃO
-    - BLINDAGEM
-    - Veículo possui Armamento(SIM OU NÃO)
-    - Quantidade de Armamento disponível
+CENÁRIO: Construção de jogos onde se tem carros com vários atributos relacionados:
 
-    Além disso há métodos que interagem com a subtração da Blindagem e método de atirar que subtrai a quantidade de armamento, advertência de "Sem Munição" entre outros.
+- NOME
+- LIGADO/DESLIGADO
+- ESTADO DE DESTRUIÇÃO
+- BLINDAGEM
+- Veículo possui Armamento(SIM OU NÃO)
+- Quantidade de Armamento disponível
+
+    Além disso há métodos que interagem com a subtração da Blindagem e método de atirar 
+    que subtrai a quantidade de armamento, advertência de "Sem Munição" entre outros.
