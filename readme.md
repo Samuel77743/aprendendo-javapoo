@@ -70,3 +70,7 @@ no loop de questão
 interface terá que necessariamente ter em seu escopo estes métodos.
 - A criação de atributos em Interface mesmo que públicos não podem ter valor alterado em outra
 classe.
+
+**- Exercício POO 017 -->** Aprendizagem de *Classes Abstratas*
+- Não conseguimos a partir dela instanciar um objeto, mas podemos criar uma classe que
+tenha ela como herança, podendo assim indiretamente usar suas propriedades

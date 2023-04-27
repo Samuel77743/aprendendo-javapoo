@@ -18,6 +18,22 @@ public class Computador {
         return this.marca;
     }
 
+    public void setValor(float valor) {
+        this.valor = valor;
+    }
+
+    public float getValor() {
+        return this.valor;
+    }
+
+    public void setQuantidade(int quantidade) {
+        this.quantidade = quantidade;
+    }
+
+    public int getQuantidade() {
+        return this.quantidade;
+    }
+
 
     
 }
