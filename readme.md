@@ -38,6 +38,7 @@ Foi realizado exercícios que refletem um mini-mundo, ou seja exemplos de situç
     Grande ideia: Permite que os diferentes objetos se utilizem de um mesmo valor de atributo
 
 **- Exercício POO 011 -->** Aprendendo funcionamento da **HERANÇA**:
+
 CENÁRIO: Construção de jogos onde se tem carros com vários atributos relacionados:
 
 - NOME
