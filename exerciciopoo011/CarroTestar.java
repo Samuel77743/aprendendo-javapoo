@@ -17,10 +17,12 @@ public class CarroTestar {
         //Carros de combate
         CarroCombate carroComb1 = new CarroCombate("Tanque", 100);
         CarroCombate carroComb2 = new CarroCombate("Insurgent", 78);
-        CarroCombate carroComb3 = new CarroCombate("Kuruma", 78);
+        CarroCombate carroComb3 = new CarroCombate("Kuruma", 45);
 
         System.out.println("\n\n\t\t**CARROS DE COMBATE**");
         
+        carroComb3.sofrerDano(48); //KURUMA sendo destruído
+
         carroComb1.infoCombate();
         carroComb2.infoCombate();
         carroComb3.infoCombate();

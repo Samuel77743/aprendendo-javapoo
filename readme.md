@@ -49,3 +49,5 @@ CENÁRIO: Construção de jogos onde se tem carros com vários atributos relacio
 
     Além disso há métodos que interagem com a subtração da Blindagem e método de atirar 
     que subtrai a quantidade de armamento, advertência de "Sem Munição" entre outros.
+
+**- Exercício POO 012 -->** Aplicação de **SUPER** e conceitos de Super Classe e Sub Classe
