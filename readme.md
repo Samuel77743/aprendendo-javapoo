@@ -54,6 +54,7 @@ CENÁRIO: Construção de jogos onde se tem carros com vários atributos relacio
 
 **- Exercício POO 013 -->** *Import,  Protected* e importância do *package* 
 - **Private ->** Restringe totalmente a utilização do atributo/método se não dentro da própria classe deles
-- **Protected ->** Permite a utilização direta de atributis e métodos em outra classe, desde que esta esteja ou no mesmo pacote ou esteja herdando-a
+- **Protected ->** Permite a utilização direta de atributos e métodos em outra classe, desde que esta esteja ou no mesmo pacote ou esteja herdando-a
+- **Public ->** Permite manipulação de atributos a qualquer classe
 
 
