@@ -51,3 +51,9 @@ CENÁRIO: Construção de jogos onde se tem carros com vários atributos relacio
     que subtrai a quantidade de armamento, advertência de "Sem Munição" entre outros.
 
 **- Exercício POO 012 -->** Aplicação de **SUPER** e conceitos de Super Classe e Sub Classe
+
+**- Exercício POO 013 -->** *Import,  Protected* e importância do *package* 
+- **Private ->** Restringe totalmente a utilização do atributo/método se não dentro da própria classe deles
+- **Protected ->** Permite a utilização direta de atributis e métodos em outra classe, desde que esta esteja ou no mesmo pacote ou esteja herdando-a
+
+
