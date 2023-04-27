@@ -58,4 +58,15 @@ CENÁRIO: Construção de jogos onde se tem carros com vários atributos relacio
 - **Protected ->** Permite a utilização direta de atributos e métodos em outra classe, desde que esta esteja ou no mesmo pacote ou esteja herdando-a
 - **Public ->** Permite manipulação de atributos a qualquer classe
 
+**- Exercício POO 014 -->** *Calculadora Simples* usando resposta **TIPO CHAR** para continuar
+no loop de questão
 
+**- Exercício POO 015 -->** *Calculadora Simples* usando resposta **TIPO STRING** para continuar no loop de questão.
+- Na comparação de uma STRING não pode-se usar **==** então a solução é utilizar:
+    *while(questao.equals("Sim") || questao.equals("sim"));*
+
+**- Exercício POO 016 -->** Apresentação do funcionamento de *Interfaces*:
+- Permite criar métodos pela qual outra classe que se declarou está sendo implementada pela
+interface terá que necessariamente ter em seu escopo estes métodos.
+- A criação de atributos em Interface mesmo que públicos não podem ter valor alterado em outra
+classe.
