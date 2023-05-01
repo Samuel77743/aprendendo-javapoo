@@ -74,3 +74,9 @@ classe.
 **- Exercício POO 017 -->** Aprendizagem de *Classes Abstratas*
 - Não conseguimos a partir dela instanciar um objeto, mas podemos criar uma classe que
 tenha ela como herança, podendo assim indiretamente usar suas propriedades
+
+**- Exercício POO 018 -->** Utilizando *Interface, herança, classes abstratas* para fazer
+confronto entre animais hipotéticos.
+    Algumas classes de animais possuem exclusividades advertidas com "@Override", que 
+    é o caso do veneno da Aranha
+    Há também o vegetal que não pode herdar classes pois não se movimenta, come etc.

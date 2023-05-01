@@ -3,9 +3,8 @@ package exerciciopoo016;
 public class Animal implements SerVivo {
 
     private boolean vivo;
-    public Animal(){ //Método Construtor
-        
 
+    public Animal(){ //Método Construtor
     }
 
     public void respirar(){ //Implementações exigidas pela Interface(SerVivo)
