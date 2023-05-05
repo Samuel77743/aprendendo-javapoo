@@ -66,7 +66,7 @@ no loop de questão
     *while(questao.equals("Sim") || questao.equals("sim"));*
 
 **- Exercício POO 016 -->** Apresentação do funcionamento de *Interfaces*:
-- Permite criar métodos pela qual outra classe que se declarou está sendo implementada pela
+- Permite criar métodos pela qual outra classe que sí declarou está sendo implementada pela
 interface terá que necessariamente ter em seu escopo estes métodos.
 - A criação de atributos em Interface mesmo que públicos não podem ter valor alterado em outra
 classe.
@@ -80,3 +80,9 @@ confronto entre animais hipotéticos.
     Algumas classes de animais possuem exclusividades advertidas com "@Override", que 
     é o caso do veneno da Aranha
     Há também o vegetal que não pode herdar classes pois não se movimenta, come etc.
+
+**- Exercício POO 019 -->** Criando classe com vários índices, e instanciando objeto em
+cada posição *manualmente* a partir do construtor, e imprimindo a info de cada objeto.
+
+**- Exercício POO 020 -->** Instanciando cada objeto de um Array de 5 posições usando laço, e
+imprimindo a info de cada objeto.
